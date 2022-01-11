@@ -10,6 +10,7 @@
 |[Do it! 반응형 웹 만들기](https://book.naver.com/bookdb/book_detail.naver?bid=12085760)|김운아|2021.12.9.|2021.12.14.|344|344|완독|
 |[타입스크립트 디자인 패턴](https://book.naver.com/bookdb/book_detail.naver?bid=11956504)|빌릭 베인|2021.12.29.|2021.1.3.|308|105|중단(지식 부족)|
 |[누구나 자료 구조와 알고리즘](https://book.naver.com/bookdb/book_detail.naver?bid=21292877)|제이 웬그로우|2021.12.29.|2021.1.8.|564|564|완독|
+|[(동작 원리 중심의) 논리회로와 컴퓨터 구조](https://book.naver.com/bookdb/book_detail.nhn?bid=16242343)|전중남|2021.12.29.|2021.1.11.|492|140|중단(지식 부족)|
 
 관심 도서
 
