@@ -13,6 +13,7 @@
 |[(동작 원리 중심의) 논리회로와 컴퓨터 구조](https://book.naver.com/bookdb/book_detail.nhn?bid=16242343)|전중남|2021.12.29.|2021.1.11.|492|140|중단(지식 부족)|
 |[컴퓨터 구조 프로그래밍 관점에서 바라보는 컴퓨터 구조](https://book.naver.com/bookdb/book_detail.naver?bid=13314662)|정기철|2022.1.4.|390|390||완독|
 |[자바 객체지향 디자인 패턴](https://book.naver.com/bookdb/book_detail.nhn?bid=7467601)|정인상, 채흥석|2022.1.4.||504||진행|
+|[쉽게 배우는 운영체제](https://book.naver.com/bookdb/book_detail.nhn?bid=13760385)|조성호|2022.1.11.|2022.1.23.|616|616|완독|
 
 관심 도서
 
